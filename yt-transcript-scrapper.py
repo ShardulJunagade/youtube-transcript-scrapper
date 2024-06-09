@@ -4,16 +4,16 @@ import scrapetube
 import os
 
 # Enter the Youtube Channel ID
-channel_id = "UCAuUUnT6oDeKwE6v1NGQxug"
+channel_id = ""
 
 # Enter the name of the txt file to be saved
-file_name = "ted"
+file_name = ""
 
 # Enter the path of the folder to save the txt file
-folder_path = "Shardul"
+folder_path = ""
 
 # Enter the language code
-language_code = "mr"
+language_code = ""
 
 # Ensure the folder path exists
 os.makedirs(folder_path, exist_ok=True)
